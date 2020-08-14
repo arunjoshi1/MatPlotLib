@@ -46,3 +46,4 @@ packages
 /CoCalculator/DCI.COCalculator.Web/wwwroot/PageLogs/ConfirmPasswordLogs
 .vscode
 .env
+survey_results_public.csv
